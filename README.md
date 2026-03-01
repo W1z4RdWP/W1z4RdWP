@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @W1z4RdWP
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Python, HTML + CSS, JS.
-- 💞️ I’m looking to collaborate on students with the same interests 
+- 👌 I have experince in developing Backend in Python Django and frontend on HTML + JS
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to work in rising projects 
 - 📫 How to reach me contact me via discord w1#7084
 
 Current portfolio website: 
